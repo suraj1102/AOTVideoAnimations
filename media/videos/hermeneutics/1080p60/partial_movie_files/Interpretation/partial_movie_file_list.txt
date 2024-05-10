@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/suraj/Documents/Coding/manim-test/AOT/media/videos/hermeneutics/1080p60/partial_movie_files/Interpretation/3529212410_2516307254_223132457.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/AOT/media/videos/hermeneutics/1080p60/partial_movie_files/Interpretation/3040924799_2999291583_2172821118.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/AOT/media/videos/hermeneutics/1080p60/partial_movie_files/Interpretation/3040924799_1422021801_759226671.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/AOT/media/videos/hermeneutics/1080p60/partial_movie_files/Interpretation/3040924799_2999291583_24122734.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/AOT/media/videos/hermeneutics/1080p60/partial_movie_files/Interpretation/3040924799_1851461981_2119321234.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/AOT/media/videos/hermeneutics/1080p60/partial_movie_files/Interpretation/3040924799_2999291583_3062785707.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/AOT/media/videos/hermeneutics/1080p60/partial_movie_files/Interpretation/3040924799_3656417942_2358810818.mp4'
